@@ -1,5 +1,5 @@
 import argparse, os
-import cv2
+from cv2 import cv2
 import torch
 import numpy as np
 from omegaconf import OmegaConf
